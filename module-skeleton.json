@@ -1,0 +1,25 @@
+{
+  "repository": "module-application-dart-desktop",
+  "capabilityKey": "liberusoftware/application",
+  "presentation": "dart-desktop",
+  "package": "module_application_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/boilerplate/nextjs/application.md",
+  "presentationPlan": "projects/boilerplate/features/application.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
